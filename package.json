@@ -1,0 +1,21 @@
+{
+    "name": "dreamscape",
+    "displayName": "Dreamscape",
+    "description": "Most thememes are too hard to look at or too boring.  I wanted to create a theme that adds some life while keeping the contrast low with good color composition.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dreamscape",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dreamscape-color-theme.json"
+            }
+        ]
+    }
+}

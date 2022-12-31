@@ -1,46 +1,36 @@
 {
 	"name": "Dreamscape",
 	"colors": {
-		"editor.background": "#272638",
+		"editor.background": "#231f2e",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.background": "#272638",
 		"sideBar.background": "#201f2e",
-
 		//"notebook.cellBorderColor": "#eeffff",
 		//"notebook.cellHoverBackground": "#eeffff",
 		//"notebook.cellInsertionIndicator": "#eeffff",
 		//"notebook.cellStatusBarItemHoverBackground": "#eeffff",
 		//"notebook.cellToolbarSeparator": "#eeffff",
 		"notebook.cellEditorBackground": "#272638",
-
 		//"notebook.selectedCellIndicator":"#ffdcfa",
 		//"notebook.focusedCellIndicator":"#ffdcfa",
-
 		//"notebook.focusedCellBackground": "#eeffff",
 		//"notebook.focusedCellBorder": "#eeffff",
 		//"notebook.focusedEditorBorder": "#eeffff",
-
 		//"notebook.inactiveFocusedCellBorder": "#eeffff",
 		//"notebook.inactiveSelectedCellBorder": "#eeffff",
-
 		//"notebook.outputContainerBackgroundColor": "#eeffff",
 		//"notebook.outputContainerBorderColor": "#eeffff",
-
 		//"notebook.selectedCellBackground": "#eeffff",
 		//"notebook.selectedCellBorder": "#eeffff",
-
 		//"notebook.symbolHighlightBackground": "#eeffff",
-
 		//"notebookScrollbarSlider.activeBackground": "#eeffff",
 		//"notebookScrollbarSlider.background": "#eeffff",
 		//"notebookScrollbarSlider.hoverBackground": "#eeffff",
-
 		//"notebookStatusErrorIcon.foreground": "#eeffff",
 		//"notebookStatusRunningIcon.foreground": "#eeffff",
 		//"notebookStatusSuccessIcon.foreground": "#eeffff",
-
 		"charts.foreground": "#eeffff",
 		"charts.lines": "#eeffff",
 		"charts.red": "#eeffff",
